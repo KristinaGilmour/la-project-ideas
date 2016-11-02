@@ -1,2 +1,2 @@
 # la-project-ideas
-Possible projects for an anlaysis of LA city data
+Possible projects for an analysis of LA city data
